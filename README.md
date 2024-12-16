@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 16/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![326439333-df9fa990-ad5f-4904-a4a4-efb3d6aab552](https://github.com/user-attachments/assets/06887c46-de9c-4396-834a-11a4548886b7)
+![326439428-a6733ab9-735d-4ee6-810e-cb63fc90c2b1](https://github.com/user-attachments/assets/c010a0e1-0f79-43de-93ed-b1ca091fb89b)
+![326439506-1e61f6db-e05c-46fd-8ebe-f2025c81017b](https://github.com/user-attachments/assets/a3bf0aa2-facf-4f85-9fad-1e271d00408c)
+![326440798-d1486907-5a58-4489-ab3b-68785b2344ce](https://github.com/user-attachments/assets/0a0e45f6-da38-43e2-8225-5623f600b445)
+![Screenshot 2024-12-16 103259](https://github.com/user-attachments/assets/6003747d-20bd-4202-89b6-0d85bd57970d)
 
-### Name: 
-### Register Number:
+### Name: JUNAID SARDAR S
+### Register Number: 24003934
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
